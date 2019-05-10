@@ -1,0 +1,8 @@
+** ID: 885 	 Nombre: Kevin	 Apellido: Smith	 Decanato: Artes
+** ID: 234 	 Nombre: Juan	 Apellido: Pereida	 Decanato: Informatica
+** ID: 123 	 Nombre: Pedro	 Apellido: Jimenez	 Decanato: General
+** ID: 725 	 Nombre: Pedro	 Apellido: Santana	 Decanato: Negocios
+** ID: 201 	 Nombre: Kevin	 Apellido: Ramirez	 Decanato: Artes
+** ID: 537 	 Nombre: Sam	 Apellido: Smith	 Decanato: Artes
+** ID: 2589 	 Nombre: Jose	 Apellido: Alcantara	 Decanato: Informatica
+** ID: 289 	 Nombre: Carlos	 Apellido: Perez	 Decanato: Artes
