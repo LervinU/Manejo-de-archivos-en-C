@@ -1,8 +1,0 @@
-ID: 123 	 Hora de entrada: 15:57 	 Fecha: 4/12/2018
-ID: 234 	 Hora de entrada: 15:57 	 Fecha: 4/12/2018
-ID: 123 	 Hora de salida: 16:5 	 Fecha: 4/12/2018
-ID: 725 	 Hora de entrada: 16:13 	 Fecha: 4/12/2018
-ID: 725 	 Hora de salida: 16:15 	 Fecha: 4/12/2018
-ID: 201 	 Hora de entrada: 7:52 	 Fecha: 6/12/2018
-ID: 201 	 Hora de salida: 7:52 	 Fecha: 6/12/2018
-ID: 25 	 Hora de entrada: 15:30 	 Fecha: 10/5/2019
